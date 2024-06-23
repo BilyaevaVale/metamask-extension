@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/MetaMask/metamask-extension/test/e2e/send-eth-with-private-key-test/web3js.js
